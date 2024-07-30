@@ -1,0 +1,26 @@
+#hero {
+        background-image: url(../images/hiver.jpg);
+        background-repeat: no-repeat;
+        background-size: 100% 100%;
+      }
+
+.profile-img {
+border-radius: 50%;
+}
+
+
+#presentation {
+    background-size: 80%;
+}
+
+.hero div p{
+ color: white;
+ font-size: 30px;
+ }
+
+ .no-bullet {
+    list-style-type: none; /* Remove bullets */
+    padding: 0; /* Remove padding */
+    margin: 0; /* Remove margins */
+  }
+
